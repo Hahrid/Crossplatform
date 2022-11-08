@@ -1,0 +1,28 @@
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.exe
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.deps.json
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.runtimeconfig.json
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.runtimeconfig.dev.json
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.dll
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.pdb
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.AssemblyInfo.cs
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.dll
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.pdb
+C:\Users\I\source\repos\Crossplatform Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.genruntimeconfig.cache
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.exe
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.deps.json
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.runtimeconfig.json
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.runtimeconfig.dev.json
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.dll
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\bin\Debug\netcoreapp3.1\Crossplatform Lab3.pdb
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.AssemblyInfo.cs
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.dll
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.pdb
+C:\Users\I\source\repos\Crossplatform\Lab3\Crossplatform Lab3\obj\Debug\netcoreapp3.1\Crossplatform Lab3.genruntimeconfig.cache
