@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>krossplatform4</id>
+    <version>1.0.0</version>
+    <authors>Lab4NETtool</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab4NETtool.dll" target="tools\netcoreapp3.1\any\Lab4NETtool.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab4NETtool.deps.json" target="tools\netcoreapp3.1\any\Lab4NETtool.deps.json" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab4NETtool.runtimeconfig.json" target="tools\netcoreapp3.1\any\Lab4NETtool.runtimeconfig.json" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab4NETtool.pdb" target="tools\netcoreapp3.1\any\Lab4NETtool.pdb" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\McMaster.Extensions.Hosting.CommandLine.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.Hosting.CommandLine.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.FileProviders.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.FileProviders.Abstractions.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Hosting.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Hosting.Abstractions.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Primitives.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll" target="tools\netcoreapp3.1\any\System.ComponentModel.Annotations.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\System.Runtime.CompilerServices.Unsafe.dll" target="tools\netcoreapp3.1\any\System.Runtime.CompilerServices.Unsafe.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Crossplatform lab1.dll" target="tools\netcoreapp3.1\any\Crossplatform lab1.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Crossplatform Lab3.dll" target="tools\netcoreapp3.1\any\Crossplatform Lab3.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab 2 crossplatform.dll" target="tools\netcoreapp3.1\any\Lab 2 crossplatform.dll" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Crossplatform lab1.pdb" target="tools\netcoreapp3.1\any\Crossplatform lab1.pdb" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Crossplatform Lab3.pdb" target="tools\netcoreapp3.1\any\Crossplatform Lab3.pdb" />
+    <file src="C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\publish\Lab 2 crossplatform.pdb" target="tools\netcoreapp3.1\any\Lab 2 crossplatform.pdb" />
+  </files>
+</package>

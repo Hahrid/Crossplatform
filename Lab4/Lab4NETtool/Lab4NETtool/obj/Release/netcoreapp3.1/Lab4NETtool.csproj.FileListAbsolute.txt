@@ -1,0 +1,31 @@
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.exe
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.deps.json
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.runtimeconfig.json
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.runtimeconfig.dev.json
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab4NETtool.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\McMaster.Extensions.Hosting.CommandLine.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Crossplatform lab1.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Crossplatform Lab3.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab 2 crossplatform.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Crossplatform lab1.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Crossplatform Lab3.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Release\netcoreapp3.1\Lab 2 crossplatform.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.AssemblyInfo.cs
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.csproj.CopyComplete
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\obj\Release\netcoreapp3.1\Lab4NETtool.genruntimeconfig.cache

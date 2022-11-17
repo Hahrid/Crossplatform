@@ -1,0 +1,49 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "bento/ubuntu-18.04"
+  config.vm.box_check_update=false
+  config.ssh.insert_key=false
+
+  config.vm.network "forwarded_port", guest: 5000, host: 5002
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.name="AbobusuS123"
+    vb.memory=2048
+    vb.cpus=2
+    vb.gui=true
+  end
+  config.vm.hostname="AbobusuS123"
+
+  # config.vm.provision "shell", inline:"sudo apt-get update"
+  # config.vm.provision "shell", inline:"wget https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb"
+  # config.vm.provision "shell", inline:"sudo dpkg -i packages-microsoft-prod.deb"
+  # config.vm.provision "shell", inline:"sudo apt-get update"
+  # config.vm.provision "shell", inline:"sudo apt-get install -y dotnet-sdk-3.1"
+  # config.vm.provision "shell", inline:"sudo apt-get install -y dotnet-sdk-6.0"
+  # config.vm.provision "shell", inline:"sudo apt-get update"
+  
+  # config.vm.provision "shell", inline: "sudo mkdir -p /var/baget"
+  # config.vm.provision "shell", inline: "sudo rm -rf /var/baget/src"
+  # config.vm.provision "shell", inline: "curl -L -o /tmp/baget.zip https://github.com/loic-sharma/BaGet/archive/refs/tags/v0.4.0-preview2.zip"
+  # config.vm.provision "shell", inline: "sudo mkdir -p /var/baget/src"
+  # config.vm.provision "shell", inline: "sudo chmod +x /var/baget/src"
+  # config.vm.provision "shell", inline: "sudo apt-get install unzip"
+  # config.vm.provision "shell", inline: "sudo unzip /tmp/baget.zip -d /var/baget/src"
+ 
+  config.vm.provision "shell", path: "bootsrap.sh"
+  
+  # config.vm.provision "shell", inline: "sudo rm -rf /var/baget/app"
+  # config.vm.provision "shell", inline: "sudo dotnet build /var/baget/src/BaGet-0.4.0-preview2/src/BaGet -c Release -o /var/baget/app"
+  # config.vm.provision "shell", inline: "sudo dotnet publish /var/baget/src/BaGet-0.4.0-preview2/src/BaGet -c Release -o /var/baget/app"
+  # config.vm.provision "shell", inline: "sudo chmod g+w /var/baget/app"
+  
+
+  
+  # config.vm.provision "shell", inline: "dotnet nuget add source http://localhost:5000/v3/index.json"
+  # config.vm.provision "shell", inline: "dotnet tool install --global krossplatform4 --version 1.0.1"
+  # config.vm.provision "shell", inline: "sudo dotnet /test_proj/add test_proj.csproj package krossplatform4"
+
+  config.vm.provision "shell", path: "startup.sh"
+end

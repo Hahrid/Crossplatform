@@ -1,0 +1,9 @@
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\bin\Debug\netcoreapp3.1\All_Labs.deps.json
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\bin\Debug\netcoreapp3.1\All_Labs.dll
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\bin\Debug\netcoreapp3.1\All_Labs.pdb
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.AssemblyInfo.cs
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.dll
+C:\Users\I\source\repos\Lab4NETtool\All_Labs\obj\Debug\netcoreapp3.1\All_Labs.pdb

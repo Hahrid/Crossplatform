@@ -1,0 +1,17 @@
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Lab4NETtool.exe
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Lab4NETtool.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Lab4NETtool.deps.json
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Lab4NETtool.runtimeconfig.json
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Lab4NETtool.pdb
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\McMaster.Extensions.Hosting.CommandLine.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\All_Labs.dll
+C:\Users\I\source\repos\Lab4NETtool\Lab4NETtool\bin\Debug\netcoreapp3.1\publish\All_Labs.pdb
