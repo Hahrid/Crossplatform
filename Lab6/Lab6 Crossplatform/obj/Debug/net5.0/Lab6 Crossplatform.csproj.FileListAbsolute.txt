@@ -1,0 +1,29 @@
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\appsettings.json
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.exe
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.deps.json
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.runtimeconfig.json
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.runtimeconfig.dev.json
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\ref\Lab6 Crossplatform.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Lab6 Crossplatform.pdb
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.csproj.AssemblyReference.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.AssemblyInfoInputs.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.AssemblyInfo.cs
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\staticwebassets\Lab6 Crossplatform.StaticWebAssets.Manifest.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\staticwebassets\Lab6 Crossplatform.StaticWebAssets.xml
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\scopedcss\bundle\Lab6 Crossplatform.styles.css
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.RazorTargetAssemblyInfo.cache
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.csproj.CopyComplete
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\ref\Lab6 Crossplatform.dll
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.pdb
+C:\Users\HAHRID\source\repos\Lab6 Crossplatform\Lab6 Crossplatform\obj\Debug\net5.0\Lab6 Crossplatform.genruntimeconfig.cache
