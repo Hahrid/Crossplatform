@@ -1,0 +1,38 @@
+﻿@model lab5Cross.Models.DataModel
+@{
+    ViewData["Title"] = "Lab3";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="Lab3">
+    <p>
+        Між деякими селами краю Власюки ходять автобуси. Оскільки пасажиропотоки тут не дуже великі, то автобуси ходять лише кілька разів на день.
+        Марії Іванівні потрібно дістатися з села d до села якнайшвидше (вважається, що в момент часу 0 вона знаходиться в селі d).
+        У вхідному файлі INPUT.TXT записано число N - загальна кількість сіл (1 ≤ N ≤ 100), номери сіл d і v, потім кількість автобусних рейсів R (0 ≤ R ≤ 10000). Потім йдуть описи автобусних рейсів. Кожен рейс задається номером села відправлення, часом відправлення, селом призначення та часом прибуття (всі часи – цілі від 0 до 10000). Якщо в момент t пасажир приїжджає до села, то виїхати з нього може в будь-який момент часу, починаючи з t.
+    </p>
+    <div class="form-group">
+        <label for="pdata">Data</label>
+        <textarea class="form-control" cols="20" id="pdata" rows="2" asp-for="Data"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+@if (Model != null)
+{
+
+
+    <div class="container mt-5">
+        @if (Model.Calculated)
+        {
+            <div class="row">
+                <label for="presponse">Response</label>
+                <input type="text" id="presponse" value="@Model.Response" />
+            </div>
+        }
+        @if (!string.IsNullOrEmpty(Model.ErrorValue))
+        {
+            <div class="row">
+                <label for="perror"></label>
+                <input type="text" id="perror" value="@Model.ErrorValue" />
+            </div>
+        }
+    </div>
+}

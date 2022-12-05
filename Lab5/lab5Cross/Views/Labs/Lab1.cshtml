@@ -1,0 +1,38 @@
+﻿@model lab5Cross.Models.DataModel
+@{
+    ViewData["Title"] = "Lab1";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="Lab1">
+    <p>
+        Наводиться квадратна таблиця розміру N×N, в кожній комірці якої написана якась англійська буква. Крім того, наводиться список ключових слів. Потрібно взяти ще одне ключове слово і знайти його в таблиці. Тобто знайдіть всі букви цього слова в таблиці, і вони повинні бути розташовані так, щоб осередок, в якій знаходиться кожна наступна буква слова, прилягала до клітинки, в якій написана попередня буква (осередки називаються сусідніми, якщо у них є загальна сторона - тобто вони примикають вертикально або горизонтально). Наприклад, на малюнку показано, як слово олімпіада може розташовуватися в таблиці.
+        Вхідний данні містить два числа N (1 ≤ N ≤ 10) і M (0 ≤ M ≤ 100). Наступні N рядків на N великих англійських буквах описують головоломку. Наступні рядки М містять слова. Слова складаються тільки з великих англійських букв, кожне слово має довжину від 1 до 100 символів.
+    </p>
+
+    <div class="form-group">
+        <label for="pdata">Data</label>
+        <textarea class="form-control" cols="20" id="pdata" rows="2" asp-for="Data"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+@if (Model != null)
+{
+
+
+    <div class="container mt-5">
+        @if (Model.Calculated)
+        {
+            <div class="row">
+                <label for="presponse">Response</label>
+                <input type="text" id="presponse" value="@Model.Response" />
+            </div>
+        }
+        @if (!string.IsNullOrEmpty(Model.ErrorValue))
+        {
+            <div class="row">
+                <label for="perror"></label>
+                <input type="text" id="perror" value="@Model.ErrorValue" />
+            </div>
+        }
+    </div>
+}

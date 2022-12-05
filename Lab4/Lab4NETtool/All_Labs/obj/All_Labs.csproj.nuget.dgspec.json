@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {}
+    "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {
+    "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj",
+        "projectUniqueName": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj",
         "projectName": "All_Labs",
-        "projectPath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj",
+        "projectPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj",
         "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\obj\\",
+        "outputPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj": {}
+    "C:\\Users\\I\\source\\repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj": {
+    "C:\\Users\\I\\source\\repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj",
+        "projectUniqueName": "C:\\Users\\I\\source\\repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj",
         "projectName": "Lab1CrossplatformV2",
-        "projectPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj",
+        "projectPath": "C:\\Users\\I\\source\\repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\Lab1CrossplatformV2.csproj",
         "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\obj\\",
+        "outputPath": "C:\\Users\\I\\source\\repos\\Crossplatform\\Lab1\\Lab1CrossplatformV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

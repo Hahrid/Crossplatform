@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lab1",
+    "\\Lab4",
+    "\\Lab4\\Lab4NETtool",
+    "\\Lab4\\Lab4NETtool\\Lab4NETtool"
   ],
+  "SelectedNode": "\\Lab4\\Lab4NETtool\\Lab4NETtool\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

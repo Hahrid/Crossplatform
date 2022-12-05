@@ -552,11 +552,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
+      "projectUniqueName": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
       "projectName": "krossplatform4",
-      "projectPath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
+      "projectPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
       "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\Lab4NETtool\\obj\\",
+      "outputPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\Lab4NETtool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -577,8 +577,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {
-              "projectPath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\All_Labs\\All_Labs.csproj"
+            "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj": {
+              "projectPath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\All_Labs\\All_Labs.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLMOT0TdlAlxL1cbfm/d5dTBEdO0oZTSDqx1Ms06IB927HzuFek048AdYuRejt1H7KozNvmsz+cL1TL8lx3umw==",
+  "dgSpecHash": "tF0D9EaSWMi0zxhvmFR6KQNrH/jbh273Hh+Jomr5cEpm2lB7it8+tqW8ObrUERw6OqwlskHh5Q90VBbytv61Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\I\\source\\repos\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
+  "projectFilePath": "C:\\Users\\I\\Source\\Repos\\Crossplatform\\Lab4\\Lab4NETtool\\Lab4NETtool\\Lab4NETtool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
     "C:\\Users\\I\\.nuget\\packages\\mcmaster.extensions.hosting.commandline\\4.0.1\\mcmaster.extensions.hosting.commandline.4.0.1.nupkg.sha512",

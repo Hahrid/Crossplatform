@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab5Cross", "lab5Cross\lab5Cross.csproj", "{DACD8763-BD18-48D0-B9D3-C673C02C6BB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "All_Labs", "All_Labs\All_Labs.csproj", "{ABB6E2A3-DCF8-4C06-9264-2540C096F314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACD8763-BD18-48D0-B9D3-C673C02C6BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACD8763-BD18-48D0-B9D3-C673C02C6BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACD8763-BD18-48D0-B9D3-C673C02C6BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACD8763-BD18-48D0-B9D3-C673C02C6BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB6E2A3-DCF8-4C06-9264-2540C096F314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB6E2A3-DCF8-4C06-9264-2540C096F314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB6E2A3-DCF8-4C06-9264-2540C096F314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB6E2A3-DCF8-4C06-9264-2540C096F314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FF4910-B17C-454D-B2FB-8C7EF8D02DBA}
+	EndGlobalSection
+EndGlobal
