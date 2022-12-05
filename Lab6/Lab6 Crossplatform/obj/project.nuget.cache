@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUjTb+LayIm5i9a481LsYOES0deBtgAUtP2ZYkSeUHX2Cc8UVOwnPXF3DXu2quAYF4sAModge1FHXPq2F3wTiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HAHRID\\source\\repos\\Lab6 Crossplatform\\Lab6 Crossplatform\\Lab6 Crossplatform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HAHRID\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HAHRID\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HAHRID\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\HAHRID\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\HAHRID\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\HAHRID\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
