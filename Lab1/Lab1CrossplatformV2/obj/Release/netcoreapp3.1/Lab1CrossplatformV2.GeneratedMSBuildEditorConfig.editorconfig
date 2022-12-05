@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = Lab1CrossplatformV2
+<<<<<<< HEAD
 build_property.ProjectDir = c:\users\i\source\repos\crossplatform\lab1\Lab1CrossplatformV2\
+=======
+build_property.ProjectDir = C:\Users\HAHRID\Source\Repos\Crossplatform\Lab1\Lab1CrossplatformV2\
+>>>>>>> fdf44c0523cfd16ab6b8ce5c96e3d2959f4568e8

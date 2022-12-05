@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Lab6ApiCore
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\I\Source\Repos\Crossplatform\Lab6\Lab6ApiCore\
+=======
+build_property.ProjectDir = C:\Users\HAHRID\Source\Repos\Crossplatform\Lab6\Lab6ApiCore\
+>>>>>>> fdf44c0523cfd16ab6b8ce5c96e3d2959f4568e8
